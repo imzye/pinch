@@ -4,4 +4,5 @@
 
 Easily find out pinch point and draw GCC automatically
 
-在线夹点计算程序
+![demo](https://raw.githubusercontent.com/imzye/pinch/master/output.png?token=GHSAT0AAAAAABZGQXYYXD2WNQUC7QCE22VQY3IQIMQ)
+
