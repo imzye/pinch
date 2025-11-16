@@ -4,5 +4,4 @@
 
 Easily find out pinch point and draw GCC automatically
 
-![demo](https://raw.githubusercontent.com/imzye/pinch/master/output.png?token=GHSAT0AAAAAABZGQXYYXD2WNQUC7QCE22VQY3IQIMQ)
-
+![demo](output.png)
